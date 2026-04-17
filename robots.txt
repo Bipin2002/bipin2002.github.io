@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bipinnagarkoti.com.np/sitemap.xml
